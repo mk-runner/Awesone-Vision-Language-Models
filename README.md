@@ -8,8 +8,8 @@
 - [Papers](#papers)
   - [2024](#2024)
 
-## Survey
-- A Systematic Review of Deep Learning-based Research on Radiology Report Generation (**arXiv 2311**) [[paper](https://arxiv.org/abs/2311.14199)]
+%## Survey
+%- A Systematic Review of Deep Learning-based Research on Radiology Report Generation (**arXiv 2311**) [[paper](https://arxiv.org/abs/2311.14199)]
 
 ## Papers
 ### 2024
