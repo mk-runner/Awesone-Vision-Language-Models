@@ -19,3 +19,4 @@
 **arXiv'24**
 - POINTS: IMPROVING YOUR VISION-LANGUAGE MODEL WITH AFFORDABLE STRATEGIES [[paper](https://arxiv.org/pdf/2409.04828)][[code](https://github.com/WePOINTS/WePOINTS)]
 - CONTRASTIVE LOCALIZED LANGUAGE-IMAGE PRE-TRAINING [[paper](https://arxiv.org/pdf/2410.02746)]
+- ARIA : An Open Multimodal Native Mixture-of-Experts Model [[paper](https://arxiv.org/pdf/2410.05993)][[code](https://github.com/rhymes-ai/Aria)]
