@@ -12,6 +12,11 @@
 - *** [[paper](https://arxiv.org/abs/2311.14199)]
 
 ## Papers
+### 2025
+**arXiv'25**
+- SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features [[paper](https://arxiv.org/pdf/2502.14786)][[code](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md)]
+
+
 ### 2024
 **NeurIPS'24**
 - ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models [[paper](https://arxiv.org/abs/2407.21534)][[code](https://github.com/mrwu-mac/ControlMLLM)]
