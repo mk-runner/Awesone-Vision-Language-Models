@@ -9,7 +9,7 @@
   - [2024](#2024)
 
 ## Survey
-- *** [[paper](https://arxiv.org/abs/2311.14199)]
+- ***
 
 ## Papers
 ### 2025
