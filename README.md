@@ -13,6 +13,10 @@
 
 ## Papers
 ### 2025
+
+**NAACL'25**
+- VividMed: Vision Language Model with Versatile Visual Grounding for Medicine [[paper](https://arxiv.org/pdf/2410.12694)][[code](https://github.com/function2-llx/MMMM)]
+
 **arXiv'25**
 - SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features [[paper](https://arxiv.org/pdf/2502.14786)][[code](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md)]
 - MedTrim Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models [[paper](https://arxiv.org/pdf/2504.15929)][[code](https://github.com/icon-lab/MedTrim)]
