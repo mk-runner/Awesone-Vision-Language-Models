@@ -13,6 +13,9 @@
 
 ## Papers
 ### 2025
+**CVPR'25**
+- Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation [[paper](https://arxiv.org/pdf/2504.18856v1)][[code](https://github.com/BasitAlawode/MR-PLIP)]
+
 
 **NAACL'25**
 - VividMed: Vision Language Model with Versatile Visual Grounding for Medicine [[paper](https://arxiv.org/pdf/2410.12694)][[code](https://github.com/function2-llx/MMMM)]
