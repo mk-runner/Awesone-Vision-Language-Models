@@ -6,6 +6,7 @@
 - [Dataset](#Dataset)
 - [Metrics](#Metrics)
 - [Papers](#papers)
+  - [2025](#2025)
   - [2024](#2024)
 
 ## Survey
@@ -15,7 +16,7 @@
 ### 2025
 **CVPR'25**
 - Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation [[paper](https://arxiv.org/pdf/2504.18856v1)][[code](https://github.com/BasitAlawode/MR-PLIP)]
-
+- Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zou_Alignment_Mining_and_Fusion_Representation_Alignment_with_Hard_Negative_Mining_CVPR_2025_paper.pdf)]
 
 **NAACL'25**
 - VividMed: Vision Language Model with Versatile Visual Grounding for Medicine [[paper](https://arxiv.org/pdf/2410.12694)][[code](https://github.com/function2-llx/MMMM)]
