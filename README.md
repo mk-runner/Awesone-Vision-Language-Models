@@ -18,6 +18,9 @@
 - Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation [[paper](https://arxiv.org/pdf/2504.18856v1)][[code](https://github.com/BasitAlawode/MR-PLIP)]
 - Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zou_Alignment_Mining_and_Fusion_Representation_Alignment_with_Hard_Negative_Mining_CVPR_2025_paper.pdf)]
 
+**TMM'25**
+- Multi-Grained Vision-and-Language Model for Medical Image and Text Alignment [[paper](https://ieeexplore.ieee.org/abstract/document/11091540)]
+
 **NAACL'25**
 - VividMed: Vision Language Model with Versatile Visual Grounding for Medicine [[paper](https://arxiv.org/pdf/2410.12694)][[code](https://github.com/function2-llx/MMMM)]
 
