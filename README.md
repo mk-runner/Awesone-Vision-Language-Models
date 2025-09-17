@@ -18,6 +18,9 @@
 - Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation [[paper](https://arxiv.org/pdf/2504.18856v1)][[code](https://github.com/BasitAlawode/MR-PLIP)]
 - Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zou_Alignment_Mining_and_Fusion_Representation_Alignment_with_Hard_Negative_Mining_CVPR_2025_paper.pdf)]
 
+**MedIA'25**
+- ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training [[paper](https://arxiv.org/pdf/2312.13316)]
+
 **TMM'25**
 - Multi-Grained Vision-and-Language Model for Medical Image and Text Alignment [[paper](https://ieeexplore.ieee.org/abstract/document/11091540)]
 
